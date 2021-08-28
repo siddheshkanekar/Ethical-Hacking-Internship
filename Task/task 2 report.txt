@@ -1,0 +1,28 @@
+Title: Vulnerability testing
+Domain: webappsecurity.com
+Subdomain: zero.webappsecurity.com
+Steps to reproduce:
+
+Step 1: Add Website you want to s to the dialogue box.
+
+Step 2: Define the customization option to scan as per your need
+
+Step 3: It will start scanning it automatically
+
+Step 4: Choose any one of the Critical Vulnerabilities. 
+
+Step 5: Write Reports for the vulnerability you wanted to write. 
+Make sure the report should not be the same as in Netsparker. 
+
+Impact : Detect security weaknesses before attackers do.
+An inventoried list of all the devices on your network, with their purpose.
+A listing of vulnerabilities for each device.
+Preparation for future upgrades.
+Established security record for later assessments.
+
+Mitigation: Lessening the likelihood and/or impact of a vulnerability being exploited. 
+This is sometimes necessary when a proper fix or patch isn't yet available for an identified vulnerability.
+This option should ideally be used to buy time for an organization to eventually remediate a vulnerability. 
+ 
+Including : 1)Screenshot
+            2)Report

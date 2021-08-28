@@ -1,0 +1,33 @@
+title: Cross site scripting
+Domain: vulweb.com
+subdomain: testasp.vulnweb.com
+steps to reproduce:
+Step 1: Visit http://testasp.vulnweb.com/
+
+Step 2: On the top menu you will find a search option.
+
+Step 3: Click on it and you will be prompted with the Search box.
+
+Step 4: You can intercept the request in Burp Suite
+
+Step 5: Now you can find different payloads for XSS. 
+
+Step 6: Send the request to the intruder and paste all the payloads.
+
+Step 7: Try to find a successful payload for XSS.
+
+Step 8: Prepare a report for it.
+
+impact :  Cross-site scripting (XSS) vulnerabilities continue to remain 
+a major threat to web applications as attackers 
+exploiting XSS attacks can gain control of the user’s account and steal personal information
+such as passwords, bank account numbers,
+credit card info, personally identifiable information (PII), social security numbers, and more. 
+
+Mitigation: Sanitize user input: Validate to catch potentially malicious user-provided input. 
+Encode output to prevent potentially malicious user-provided data from triggering automatic load-and-execute behavior by a browser
+
+Including :1) POC
+           2) Screenshots
+           3) Report.
+           
